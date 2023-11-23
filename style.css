@@ -1,5 +1,10 @@
-.navbar {
-    background-color: 1B343C;
-    color: black;
-    padding: 15px;
+*{
+    scroll-behavior: smooth;
+}
+body{
+    background: #1B343C;
+    color: white;
+}
+.h3 {
+    font-size: 10px;
 }
